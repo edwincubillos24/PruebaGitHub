@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //termine el proyecto
         //termine la practica 2
+        //
     }
 }
